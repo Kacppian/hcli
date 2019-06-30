@@ -1,5 +1,5 @@
 {
-  "name": "hcli",
+  "name": "@kaspian/hcli",
   "description": "Browse your hackernews from the comfort of a terminal",
   "version": "0.0.0",
   "author": "Kaushik ASP @Kacppian",
